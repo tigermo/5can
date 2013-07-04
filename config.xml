@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget appId="11139536" channelCode="5can" height="480" pid="" sreensize="4.5" version="0.3" viewmode="application" widgetId="" width="320"> 
+  <name>5can.org(I CAN n I WILL)</name>  
+  <description/>  
+  <author email=""/>  
+  <icon src="icon.png"/>  
+  <license href=""/>  
+  <content encoding="utf-8" src="index.html"/>  
+  <updateurl>http://5can.org/x/source/plugin/zywx/rpc/widget_upgrade.php</updateurl>  
+  <logserverip/>  
+  <showmyspace>false</showmyspace>  
+  <obfuscation>false</obfuscation>  
+  <bgcolor>#ffffff</bgcolor>   
+  <orientation>1</orientation>  
+  <appSec>62d9035a18c9fd9d3f41c28a7a845f15</appSec> 
+</widget>
